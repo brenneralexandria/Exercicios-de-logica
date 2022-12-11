@@ -1,5 +1,5 @@
 var largura = prompt("Digite a largura");
-var largura = parseFloat(largura);
+largura = parseFloat(largura);
 
 var altura = prompt("Digite a altura");
 altura = parseFloat(altura);
